@@ -1,0 +1,19 @@
+{
+  "name": "colleen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bull": "^3.22.3",
+    "marjorie": "git://github.com/thebookins/marjorie.git#master",
+    "mongodb": "^3.6.6",
+    "node-cron": "^3.0.0",
+    "request": "^2.88.2",
+    "throng": "^5.0.0"
+  }
+}
